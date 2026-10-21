@@ -1,0 +1,7 @@
+interface:
+  display_name: "Visual 3D Preflight"
+  short_description: "Prevent physical and visual rework in 3D scenes"
+  default_prompt: "Use $visual-3d-preflight to define the physical, morphology, interaction, and QA contracts before building this 3D scene."
+
+policy:
+  allow_implicit_invocation: true
